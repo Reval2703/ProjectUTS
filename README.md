@@ -4,4 +4,4 @@
 
 Storyboard My Alarm
 
-![alt text](https://github.com/Reval2703/Lab5Web/blob/main/Screenshot%202024-11-01%20082329.png)
+![alt text](https://github.com/Reval2703/ProjectUTS/blob/main/Screenshot%202024-11-06%20145244.png).
